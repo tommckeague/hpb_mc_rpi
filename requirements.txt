@@ -1,0 +1,11 @@
+fastapi
+pydantic
+uvicorn
+pyserial
+influxdb-client
+python-can
+matplotlib
+paho-mqtt<2.0.0
+RPi.GPIO
+python-dotenv
+requests
